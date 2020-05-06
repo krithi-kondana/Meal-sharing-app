@@ -2,7 +2,7 @@
 
 Meal-sharing-app is a full stack app. 
 
-First download/clone the repossitory.
+First download/clone the repository.
 
 To run the app ```npm install``` and then ```npm run dev```
 
